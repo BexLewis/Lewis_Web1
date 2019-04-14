@@ -17,12 +17,12 @@
 		"oAP": "/.gitattributes",
 		"oF": 0
 		},
-	"/img/header/headerbg.jpg": {
+	"/img/header/hero.jpg": {
 		"ft": 16384,
 		"iS": 42171,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/header/headerbg.jpg",
+		"oAP": "/img/header/hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -37,6 +37,25 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/img/header/website-chef.eps": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/img/header/website-chef.eps",
+		"oF": 0
+		},
+	"/img/header/website-chef.png": {
+		"ft": 32768,
+		"iS": 7004,
+		"oA": 0,
+		"oAP": "/img/header/website-chef.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"/img/header/website-chef.svg": {
 		"ft": 2097152,
@@ -124,6 +143,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/img/pricing/check-mark.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/pricing/info-circle.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/pricing/info-circle.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
